@@ -1,0 +1,126 @@
+#sname{
+    color: rgb(78, 30, 210);
+    text-align: center;
+}
+    
+    
+        
+        
+        .comments{
+            width: 48%;
+            margin: 3px;
+
+            
+        }
+        .keys{
+            width:60%;
+            margin:1px;
+        }
+        .keys > td{
+            margin: 2px;
+            padding: 70px;
+            font-size: 12px;
+            } 
+
+        #tc{
+        width: 100%;
+    }
+   
+    #pc{
+        width: 100%;
+    }
+  
+
+        #address{
+            font-size: small;
+            text-align: center;
+            
+        }
+
+        #nameclass{
+            font-size: small;
+            text-align: center;
+            
+        }
+
+
+     table, th, td{
+        
+        width: 70%;
+        font-size: small;
+        border: 1px solid black;
+        border-collapse: collapse;
+
+        }
+        
+
+        th{
+            padding: 1px;
+            text-align: center;
+            font-size: 15px;
+        }
+        
+#tdp{
+padding: 6px;
+
+}
+#tdpp{
+padding: 6px;
+font-size: 1px;
+}
+
+
+
+#logo1{
+height:50%;
+width: 40%;
+justify-content: right;
+}
+
+#resume{
+width: 90%;
+justify-content: center;
+}
+#sign{
+   height:60px;
+width: 100px;
+justify-content: center;
+
+}
+.sign{
+width: 25%;
+}
+        
+        
+
+#sname{
+color: rgb(235, 134, 52);
+text-align: center;
+}
+.hinfo {
+display: flex;
+justify-content: center;
+
+
+}
+.hinfo > div{
+margin: 2px;
+padding: 5px;
+font-size: 12px;
+}
+#photo{
+height:40%;
+width:40%;
+justify-content: right;
+margin: 15px;
+}
+.container3 {
+display: flex;
+justify-content: center;
+
+}
+.container3 > div{
+margin: 2px;
+padding: 4px;
+font-size: 12px;
+}          
